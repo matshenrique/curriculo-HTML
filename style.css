@@ -1,0 +1,23 @@
+
+body {
+    background: linear-gradient(90deg, #270136, #460161, #8907bd,  #270136);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: #460161;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    margin-top: 25px;
+}
+
+p, h2, li {
+    margin-left: 50px;
+   
+}
